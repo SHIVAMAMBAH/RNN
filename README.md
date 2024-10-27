@@ -11,4 +11,4 @@ Let's take an example : <br>
 - The cat chased the mouse.
 - The mouse chased the cat.
 
-The sentence are clearly very different. However, the bag of words representation would deem them identical. Hence, this type of representation works well for simpler application (such as claffication), but a greater degree of linguistic intelligence is required for more sophistcated applications in difficult settings such as sentimental analysis, machine translation, or information exactraction.
+The sentence are clearly very different. However, the bag of words representation would deem them identical. Hence, this type of representation works well for simpler application (such as clasiffication), but a greater degree of linguistic intelligence is required for more sophistcated applications in difficult settings such as *sentimental analysis*, *machine translation*, or *information exactraction*.<br>
